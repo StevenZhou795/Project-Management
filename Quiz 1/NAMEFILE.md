@@ -5,3 +5,4 @@ Autumn Rosedale
 Hyunji Lee   
 Amaan Khan   
 Sophia Bustos
+Xiaoran(Steven) Zhou
