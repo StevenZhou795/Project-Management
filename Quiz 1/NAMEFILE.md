@@ -7,6 +7,13 @@ Mariam Sanusi
 Autumn Rosedale     
 Hyunji Lee   
 Amaan Khan   
+Sophia Bustos 
+Justin Yoon  
+Blake Mackin  
+Pavithra Ramakrishnan  
+Youbeen Oh  
+Yunchae Cho
+Miller Olson   
 Matthew Hurh  
 Sophia Bustos   
 Justin Yoon  
@@ -22,4 +29,4 @@ Aren Yoon
 Yunchae Cho  
 Samridhi Verma  
 Nicole Gromski  
-James Sanfilippo
+James Sanfilippo  
