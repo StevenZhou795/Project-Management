@@ -32,9 +32,9 @@ For numbered lists, simply write the numbers followed by periods:
 
 ## Images
 
-To insert an image, use the following syntax: ![Alt Text](image-url).
+To insert an image, use the following syntax: ![PlaceHolder](image-url).
 For example:
-![Logo]([https://example.com/logo.png](https://unsplash.com/photos/a-woman-freelancer-working-on-laptop-sitting-on-a-pier-by-the-backyard-lake-a-concept-of-remote-office-work-during-vacation-yOuZaN3zqXc)) will display the image, with "Alt Text" as a description if the image cannot load.
+![Logo](https://via.placeholder.com/150). will display the image, with "Alt Text" as a description if the image cannot load.
 
 ## Links
 
