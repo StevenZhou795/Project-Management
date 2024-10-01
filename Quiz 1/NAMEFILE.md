@@ -30,3 +30,4 @@ Yunchae Cho
 Samridhi Verma  
 Nicole Gromski  
 James Sanfilippo  
+Evan Price
